@@ -10,7 +10,7 @@ Current project is on establishing connections between multiple systems and use 
 - Coding languages like JAVA and Python
 
 ## Tools I Use
- — Bash
+ - Bash
  - ADB
  - SSH
  - Linux
