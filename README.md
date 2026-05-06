@@ -1,6 +1,6 @@
 # Hi, I'm Devdutt Dave 👋
 
-B.Tech Information Technology | LJ University, Ahmedabad | 1st Year
+B.Tech - 1st year in Information Technology at LJ University, Ahmedabad
 
 ## What I'm Building
 PHONE-FLEET — turning old Android phones into SSH compute nodes
